@@ -1,4 +1,4 @@
-# Webpack5
+# Webpack5 сборка
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
