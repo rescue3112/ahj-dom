@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("app.js included"),setInterval((()=>{const e=document.querySelector(".hole_has-goblin"),o=parseInt(e.id.match(/\d+/),10);let t=Math.floor(1+16*Math.random()-1+1);o===t&&(16===t&&(t-=1),t+=1);const l=document.getElementById(`hole${t}`);e.classList.remove("hole_has-goblin"),l.classList.add("hole_has-goblin")}),2e3)})();
